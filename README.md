@@ -12,3 +12,5 @@ To run the application, select a device or emulator if one is not already select
 If any issues arise with building the project, then the project can be cleaned by going to Build > Clean Project and then rebuild by going to Build > Rebuild Project.
 
 For detailed instructions, please refer to [Android Studio Documentation](https://developer.android.com/studio/intro)
+
+<b> About the Sensible app</b>
