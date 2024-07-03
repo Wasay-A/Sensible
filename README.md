@@ -2,7 +2,7 @@
 
 <b> Run the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
-- Clone using Git with command: git clone <URL of repository>
+- Clone using Git with command: git clone [URL of repository]
 - Clone in Android Studio by going to File > New > Project from Version Control and paste the repository URL
 
 Android Studio should automatically sync project with gradle files. If it doesn't, this can be manually done by going to File > Sync Project with Gradle Files
