@@ -1,6 +1,6 @@
 # Sensible
 
-<b> Run the Sensible app in Android Studio</b><br>
+<b> Run the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
 - Clone using Git with command: git clone <URL of repository>
 - Clone in Android Studio by going to File > New > Project from Version Control and paste the repository URL
