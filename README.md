@@ -29,6 +29,7 @@ Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUb
 <img width="404" alt="Screenshot 2024-07-04 at 10 06 50 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/28293f36-1e5e-46ef-b385-d1b2f158056a">
 <img width="403" alt="Screenshot 2024-07-04 at 10 03 42 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/886f1e84-33c8-42a0-88b5-d7c21c811776">
 <img width="403" alt="Screenshot 2024-07-04 at 10 05 08 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/415c2856-969e-482d-9936-0251c086cd29">
+<img width="405" alt="Screenshot 2024-07-04 at 10 04 25 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/7b941497-2280-4119-94f5-588aefb2e9b5">
 <img width="407" alt="Screenshot 2024-07-04 at 10 04 45 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f93c5fbc-1708-4a26-96b0-7bd044fcd6f0">
 <img width="402" alt="Screenshot 2024-07-04 at 10 05 24 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/5c9e373d-6139-42be-9d39-63c048e56cfb">
 <img width="399" alt="Screenshot 2024-07-04 at 10 05 48 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/34d8cc07-b965-48b9-b336-61c406e6d8fe">
