@@ -5,7 +5,7 @@ Sensible is a project worked on by Wasay Ahmed, Miguel Rodriguez, Dan Quirke, an
 
 The project involved numerous group meetings and multiple parts. The parts to the project were: requirements, low-fidelity prototype, user study 1, functional prototype, user study 2, final presentation, final paper. A big purpose of the project was to apply various user interface design and programming principles to create a functioning project that would fulfil the user's needs. In order to make the project most beneficial to the user, user studies were conducted to learn and understand what a user would want from the project.
 
-File "app" and "contains project demonstration slides, app report with extensive information including diagrams and tests, app summary, app scenario, and link to the code.
+Files "app", "gradle/wrapper", and single "gradle" files are needed in order to run the "Sensible" app in Android Studio.
 
 
 The Home Food Delivery App is designed for home cooked food deliveries. The app has three main users: cook, customer, and driver. The cook can be any registered individual with the flexibility to create their own menu and sell their own food items from the comfort of their own location. The customer can be any registered individual within proximity to order food items from available cook(s). The driver can be any registered individual within proximity to deliver food from the cook to the customer.
