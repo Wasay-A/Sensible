@@ -23,7 +23,7 @@ Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUb
 <img width="398" alt="Screenshot 2024-07-04 at 9 49 05 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f0a8053a-38b8-44c7-a63d-6ed03feeea12">
 <br>
 
-<b>Functional Prototype</b>
+<b>Functional Prototype</b><br>
 <img width="300" alt="Screenshot 2024-07-04 at 10 02 13 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/cc2bb283-8aa1-4dee-85f7-39d327cdbf7e">
 <img width="308" alt="Screenshot 2024-07-04 at 10 03 04 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/50df2e75-d9aa-46da-8848-9dd4a28e6687">
 <img width="404" alt="Screenshot 2024-07-04 at 10 06 50 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/28293f36-1e5e-46ef-b385-d1b2f158056a">
