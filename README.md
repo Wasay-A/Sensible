@@ -16,7 +16,7 @@ The Home Food Delivery App is designed for home cooked food deliveries. The app 
 <br>- Google Maps to provide navigation for the driver
 
 <b>Video Demonstration:</b><br>
-Video demonstration 1 of the app: [Sensible](https://www.youtube.com/watch?v=PKy3lueN2vc)
+Video demonstration 1 of the app: [Sensible](https://www.youtube.com/watch?v=PKy3lueN2vc) <br>
 Final video demonstration of app: [Sensible Final](https://youtu.be/eHUHJUbTqMg)
 
 
