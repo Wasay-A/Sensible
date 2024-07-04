@@ -3,7 +3,7 @@
 <b>Overview</b><br>
 Sensible is a project worked on by Wasay Ahmed, Miguel Rodriguez, Dan Quirke, and Sarthak Patipati during Fall 2023 at University of Illinois at Chicago for the course CS 422 User Interface Design and Programming taught by Professor Andruid Kerne.
 
-The <ins>coding</ins> project involved reading and implementing a functioning version of a past semester group's <ins>developmental</ins> project, which included extensive and various amounts of documentation consisting of information, diagrams, designs, and requirements about the project to be implemented.  Additionally, the <ins>coding</ins> project involved a large amount of coding, testing, sprints on Jira, and weekly meetings with the group. This project gave our group the experience to be able to read various documentation, and work together as a team to create a functioning version of the project that meets the requirments.
+The project involved numerous group meetings and multiple parts. The parts to the project were: requirements, low-fidelity prototype, user study 1, functional prototype, user study 2, final presentation, final paper. A big purpose of the project was to apply various user interface design and programming principles to create a functioning project that would fulfil the user's needs. In order to make the project most beneficial to the user, user studies were conducted to learn and understand what a user would want from the project.
 
 File "Code" contains project demonstration slides, app report with extensive information including diagrams and tests, app summary, app scenario, and link to the code.
 
