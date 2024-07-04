@@ -14,8 +14,8 @@ Files "app", "gradle/wrapper", and single "gradle" files are needed in order to 
 <br>- Google Calendar API to allow making schedules and keep track of dates
 
 <b>Video Demonstrations:</b><br>
-Video demonstration 1 of the app: [Sensible demo 1](https://www.youtube.com/watch?v=PKy3lueN2vc) <br>
-Video demonstration 2 of the app: [Sensible demo 2](https://www.youtube.com/watch?v=Fbwp1LPtAjs) <br>
+Video demonstration 1 (Functional Prototype) of the app: [Sensible demo 1](https://www.youtube.com/watch?v=PKy3lueN2vc) <br>
+Video demonstration 2 (Revised Prototype) of the app: [Sensible demo 2](https://www.youtube.com/watch?v=Fbwp1LPtAjs) <br>
 Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUbTqMg)
 
 <b>Some Pictures:</b>
