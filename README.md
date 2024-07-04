@@ -19,9 +19,12 @@ Video demonstration 2 (Revised Prototype) of the app: [Sensible demo 2](https://
 Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUbTqMg)
 
 <b>Some Pictures:</b><br>
-<b>Revised System Architecture</b>
+<b>Revised Final System Architecture</b>
+<img width="398" alt="Screenshot 2024-07-04 at 9 49 05 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f0a8053a-38b8-44c7-a63d-6ed03feeea12">
 
+<b>Functional Prototype</b>
 
+<b>Final</b>
 
 <b> Running the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
