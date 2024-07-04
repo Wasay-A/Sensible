@@ -23,6 +23,19 @@ Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUb
 <img width="398" alt="Screenshot 2024-07-04 at 9 49 05 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f0a8053a-38b8-44c7-a63d-6ed03feeea12">
 
 <b>Functional Prototype</b>
+<img width="398" alt="Screenshot 2024-07-04 at 10 02 13 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/cc2bb283-8aa1-4dee-85f7-39d327cdbf7e">
+<img width="406" alt="Screenshot 2024-07-04 at 10 03 04 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/50df2e75-d9aa-46da-8848-9dd4a28e6687">
+<img width="404" alt="Screenshot 2024-07-04 at 10 06 50 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/28293f36-1e5e-46ef-b385-d1b2f158056a">
+<img width="403" alt="Screenshot 2024-07-04 at 10 03 42 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/886f1e84-33c8-42a0-88b5-d7c21c811776">
+<img width="403" alt="Screenshot 2024-07-04 at 10 05 08 AM" src=<img width="405" alt="Screenshot 2024-07-04 at 10 04 25 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/dc51557a-64d1-47ad-8adc-4f570d6c4f84">
+"https://github.com/Wasay-A/Sensible/assets/98603984/74145039-19e2-45e4-838f-f39c646e7971">
+<img width="407" alt="Screenshot 2024-07-04 at 10 04 45 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f93c5fbc-1708-4a26-96b0-7bd044fcd6f0">
+<img width="402" alt="Screenshot 2024-07-04 at 10 05 24 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/5c9e373d-6139-42be-9d39-63c048e56cfb">
+<img width="399" alt="Screenshot 2024-07-04 at 10 05 48 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/34d8cc07-b965-48b9-b336-61c406e6d8fe">
+<img width="408" alt="Screenshot 2024-07-04 at 10 06 04 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/6bc0561d-a27c-4319-9297-df0f5e644963">
+<img width="407" alt="Screenshot 2024-07-04 at 10 07 08 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/facc30cd-03c7-44fc-8aa4-4633964480c5">
+<img width="407" alt="Screenshot 2024-07-04 at 10 07 27 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/07cd53f5-a190-4604-a2d5-115b7f4c123a">
+<img width="403" alt="Screenshot 2024-07-04 at 10 07 41 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/09fe0741-c5fb-4d6a-bdc6-6cada4e95fb3">
 
 <b>Final</b>
 
