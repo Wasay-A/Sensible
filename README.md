@@ -38,7 +38,22 @@ Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUb
 <img width="407" alt="Screenshot 2024-07-04 at 10 07 27 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/07cd53f5-a190-4604-a2d5-115b7f4c123a">
 <img width="403" alt="Screenshot 2024-07-04 at 10 07 41 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/09fe0741-c5fb-4d6a-bdc6-6cada4e95fb3">
 
-<b>Final</b>
+<b>Final</b><br>
+<img width="407" alt="Screenshot 2024-07-04 at 10 27 35 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f2cfd4dd-3629-4f20-a1d1-9b55055d3acc">
+<img width="407" alt="Screenshot 2024-07-04 at 10 27 54 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/d1b89dc8-52b7-4c9b-a248-e93e44f42ca4">
+<img width="413" alt="Screenshot 2024-07-04 at 10 28 07 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/9b62b57d-3033-4a51-8b3e-8cde7d942e49">
+<img width="410" alt="Screenshot 2024-07-04 at 10 28 40 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/05784b10-43e0-4af9-bbc5-01b80213e24d">
+<img width="410" alt="Screenshot 2024-07-04 at 10 29 57 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/979b73a1-9769-4710-9172-2602b6e2c156">
+<img width="407" alt="Screenshot 2024-07-04 at 10 29 13 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/32e96b67-12f4-46af-a1cb-c6385c2f7696">
+<img width="413" alt="Screenshot 2024-07-04 at 10 29 28 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/b3965b0f-92d1-4857-a8fa-4eff94a2b8c7">
+<img width="410" alt="Screenshot 2024-07-04 at 10 30 29 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f9987340-c123-481b-b480-015ca66c7177">
+<img width="410" alt="Screenshot 2024-07-04 at 10 30 45 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/d3db708e-c945-447a-8672-9f084564b43b">
+<img width="409" alt="Screenshot 2024-07-04 at 10 30 56 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/0b75001c-8e6b-4a8a-8f02-256335845236">
+<img width="416" alt="Screenshot 2024-07-04 at 10 30 08 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/c0a07a30-fb37-446e-8a68-aa17ecdf641d">
+<img width="409" alt="Screenshot 2024-07-04 at 10 31 25 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/40263ea4-efe1-4a93-83c6-defc0f38801d">
+<img width="406" alt="Screenshot 2024-07-04 at 10 31 37 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/deef3119-463f-4ac1-988b-cf2b389a65c5">
+<img width="405" alt="Screenshot 2024-07-04 at 10 31 54 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f9986e03-2ab1-4559-afee-10de582322d0">
+
 
 <b> Running the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
