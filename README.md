@@ -3,24 +3,22 @@
 <b>Overview</b><br>
 Sensible is a project worked on by Wasay Ahmed, Miguel Rodriguez, Dan Quirke, and Sarthak Patipati during Fall 2023 at University of Illinois at Chicago for the course CS 422 User Interface Design and Programming taught by Professor Andruid Kerne.
 
+The Sensible App is designed for groups to get things done through chatting and organization. The intended users for the app are college students. The main functionalities of the app are: group chat, interactive calendar tracking, collaborative note taking, link archive organization system, and scheduling via google calendar.
+
 The project involved numerous group meetings and multiple parts. The parts to the project were: requirements, low-fidelity prototype, user study 1, functional prototype, user study 2, final presentation, final paper. A big purpose of the project was to apply various user interface design and programming principles to create a functioning project that would fulfil the user's needs. In order to make the project most beneficial to the user, user studies were conducted to learn and understand what a user would want from the project.
 
-Files "app", "gradle/wrapper", and single "gradle" files are needed in order to run the "Sensible" app in Android Studio.
-
-
-The Home Food Delivery App is designed for home cooked food deliveries. The app has three main users: cook, customer, and driver. The cook can be any registered individual with the flexibility to create their own menu and sell their own food items from the comfort of their own location. The customer can be any registered individual within proximity to order food items from available cook(s). The driver can be any registered individual within proximity to deliver food from the cook to the customer.
+Files "app", "gradle/wrapper", and single "gradle" files are needed in order to run the Sensible app in Android Studio. File "Presentations" contains presentation slides for the different stages of the project.
 
 <b>Technologies Used:</b>
 <br>- Android Studio with Java and XML to program the functionalities and design of the app
-<br>- Google Firebase NoSQL database to store and manage data for each user in real time
-<br>- Google Maps to provide navigation for the driver
+<br>- Google Calendar API to allow making schedules and keep track of dates
 
-<b>Video Demonstration:</b><br>
+<b>Video Demonstrations:</b><br>
 Video demonstration 1 of the app: [Sensible](https://www.youtube.com/watch?v=PKy3lueN2vc) <br>
 Final video demonstration of app: [Sensible Final](https://youtu.be/eHUHJUbTqMg)
 
 
-<b> Run the Sensible app in Android Studio</b><br><br>
+<b> Runnning the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
 - Clone using Git with command: git clone [URL of repository]
 - Clone in Android Studio by going to File > New > Project from Version Control and paste the repository URL
