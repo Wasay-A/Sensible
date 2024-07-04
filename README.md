@@ -18,7 +18,9 @@ Video demonstration 1 (Functional Prototype) of the app: [Sensible demo 1](https
 Video demonstration 2 (Revised Prototype) of the app: [Sensible demo 2](https://www.youtube.com/watch?v=Fbwp1LPtAjs) <br>
 Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUbTqMg)
 
-<b>Some Pictures:</b>
+<b>Some Pictures:</b><br>
+<b>Revised System Architecture</b>
+
 
 
 <b> Running the Sensible app in Android Studio</b><br><br>
