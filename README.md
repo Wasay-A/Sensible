@@ -17,8 +17,10 @@ Files "app", "gradle/wrapper", and single "gradle" files are needed in order to 
 Video demonstration 1 of the app: [Sensible](https://www.youtube.com/watch?v=PKy3lueN2vc) <br>
 Final video demonstration of app: [Sensible Final](https://youtu.be/eHUHJUbTqMg)
 
+Some Pictures:
 
-<b> Runnning the Sensible app in Android Studio</b><br><br>
+
+<b> Running the Sensible app in Android Studio</b><br><br>
 Clone using Git or through Android Studio:
 - Clone using Git with command: git clone [URL of repository]
 - Clone in Android Studio by going to File > New > Project from Version Control and paste the repository URL
