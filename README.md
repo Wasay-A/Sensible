@@ -18,7 +18,7 @@ Video demonstration 1 (Functional Prototype) of the app: [Sensible demo 1](https
 Video demonstration 2 (Revised Prototype) of the app: [Sensible demo 2](https://www.youtube.com/watch?v=Fbwp1LPtAjs) <br>
 Final video demonstration of app: [Sensible final demo](https://youtu.be/eHUHJUbTqMg)
 
-<b>Some Pictures:</b><br>
+<b>Some Pictures:</b><br><br>
 <b>Revised Final System Architecture</b><br>
 <img width="398" alt="Screenshot 2024-07-04 at 9 49 05 AM" src="https://github.com/Wasay-A/Sensible/assets/98603984/f0a8053a-38b8-44c7-a63d-6ed03feeea12">
 
